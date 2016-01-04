@@ -3,16 +3,17 @@
 <head>
   <meta charset="utf-8">
   
-  <title>Archives | srasin web</title>
+  <title>테스트 | srasin web</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description">
-<meta property="og:type" content="website">
-<meta property="og:title" content="srasin web">
-<meta property="og:url" content="https://srasin.github.com/blog/archives/index.html">
+<meta property="og:type" content="article">
+<meta property="og:title" content="테스트">
+<meta property="og:url" content="https://srasin.github.com/blog/ciizmcgdd000adscbi2xrxtea">
 <meta property="og:site_name" content="srasin web">
 <meta property="og:description">
+<meta property="og:updated_time" content="2016-01-04T01:48:35.485Z">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="srasin web">
+<meta name="twitter:title" content="테스트">
 <meta name="twitter:description">
   
     <link rel="alternate" href="/atom.xml" title="srasin web" type="application/atom+xml">
@@ -52,7 +53,7 @@
           <li><a class=""
                  href="/blog/index.html">Home</a></li>
         
-          <li><a class="active"
+          <li><a class=""
                  href="/blog/archives/">Archives</a></li>
         
       </ul>
@@ -89,140 +90,74 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
           <!-- ad end -->
-          
-  
-  
+          <article id="다시-테스트-1" class="article article-type-다시" itemscope itemprop="blogPost">
+
+  <header class="article-header">
     
+  
+    <h1 class="article-title" itemprop="name">
+      테스트
+    </h1>
+  
+
+
+  </header>
+
+  <div class="article-meta">
+    <div class="article-datetime">
+  <a href="/blog/ciizmcgdd000adscbi2xrxtea" class="article-date"><time datetime="2016-01-04T01:48:35.000Z" itemprop="datePublished">2016-01-04</time></a>
+</div>
+
+    
+    
+
+  </div>
+  <div class="article-inner">
+
+    <div class="article-entry" itemprop="articleBody">
+      
+        
+      
+    </div>
+
     
       
+
+    
+
+    <footer class="article-footer">
+      <a data-url="https://srasin.github.com/blog/ciizmcgdd000adscbi2xrxtea" data-id="ciizmcgdd000adscbi2xrxtea" class="article-share-link">
+        <i class="fa fa-share"></i> Share
+      </a>
       
-      <section class="archives-wrap">
-        <div class="archive-year-wrap">
-          <a href="/blog/archives/2016" class="archive-year">2016</a>
-        </div>
-        <div class="archives">
-    
-    <article class="archive-article archive-type-post">
-  <header class="archive-article-header">
-    
+      
+
+    </footer>
+  </div>
   
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgdf000bdscbjvnjfhgv">좌표와 거리</a>
-    </h1>
+    
+<ul id="article-nav" class="nav nav-pills nav-justified">
   
+  <li role="presentation">
+    <a href="/blog/ciizmcgdb0009dscblicst2ob" id="article-nav-older" class="article-nav-link-wrap">
+      <i class="fa fa-chevron-left pull-left"></i>
+      <span class="article-nav-link-title">2016.01.04_테스트</span>
+    </a>
+  </li>
+  
+  
+  <li role="presentation">
+    <a href="/blog/ciizmcgcv0000dscbtqwdem2a" id="article-nav-newer" class="article-nav-link-wrap">
+      <span class="article-nav-link-title">다시 파일명 테스트2</span>
+      <i class="fa fa-chevron-right pull-right"></i>
+    </a>
+  </li>
+  
+</ul>
 
 
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgdf000bdscbjvnjfhgv" class="archive-article-date"><time datetime="2016-01-04T07:00:40.000Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
+  
 </article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <header class="archive-article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgda0008dscbi6muc01s">Hello World</a>
-    </h1>
-  
-
-
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgda0008dscbi6muc01s" class="archive-article-date"><time datetime="2016-01-04T06:53:36.399Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <header class="archive-article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgcv0000dscbtqwdem2a">다시 파일명 테스트2</a>
-    </h1>
-  
-
-
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgcv0000dscbtqwdem2a" class="archive-article-date"><time datetime="2016-01-04T01:49:07.000Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-다시">
-  <header class="archive-article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgdd000adscbi2xrxtea">테스트</a>
-    </h1>
-  
-
-
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgdd000adscbi2xrxtea" class="archive-article-date"><time datetime="2016-01-04T01:48:35.000Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <header class="archive-article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgdb0009dscblicst2ob">2016.01.04_테스트</a>
-    </h1>
-  
-
-
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgdb0009dscblicst2ob" class="archive-article-date"><time datetime="2016-01-04T01:06:16.000Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
-</article>
-
-  
-    
-    
-    <article class="archive-article archive-type-post">
-  <header class="archive-article-header">
-    
-  
-    <h1 itemprop="name">
-      <a class="archive-article-title" href="/blog/ciizmcgd80007dscb66o3m6jy">테스트</a>
-    </h1>
-  
-
-
-    <div class="article-datetime">
-  <a href="/blog/ciizmcgd80007dscb66o3m6jy" class="archive-article-date"><time datetime="2016-01-04T01:00:15.000Z" itemprop="datePublished">January 4th</time></a>
-</div>
-
-  </header>
-</article>
-
-  
-  
-    </div></section>
-  
 
 
 
